@@ -1,3 +1,0 @@
-# analytic6.github.io
-website project
-This is a blog templete...
